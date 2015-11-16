@@ -1,4 +1,6 @@
 ### prerequisites
+
+[![Join the chat at https://gitter.im/Rajkumarn/ajax-samples](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Rajkumarn/ajax-samples?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 The following items should be installed in your system:
 * Maven 3 (http://www.sonatype.com/books/mvnref-book/reference/installation.html)
 * git command line tool (https://help.github.com/articles/set-up-git)
